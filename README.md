@@ -1,4 +1,10 @@
 ## Hi there 👋
+I am Shashank Gowda B
+
+- Web Developer with a focus on Frontend and Backend Development
+- Skilled in HTML, CSS, JavaScript, Bootstrap, Node.js, MongoDB
+- Passionate about building responsive and user-friendly web applications
+- Always eager to explore and learn new technologies
 
 <!--
 **shashankgowdab3/shashankgowdab3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
